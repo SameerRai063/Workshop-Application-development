@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workshop 2\\Task 1.csproj": {}
+    "D:\\Workshop 2\\Task 3\\Task 3.csproj": {}
   },
   "projects": {
-    "D:\\Workshop 2\\Task 1.csproj": {
+    "D:\\Workshop 2\\Task 3\\Task 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workshop 2\\Task 1.csproj",
-        "projectName": "Task 1",
-        "projectPath": "D:\\Workshop 2\\Task 1.csproj",
+        "projectUniqueName": "D:\\Workshop 2\\Task 3\\Task 3.csproj",
+        "projectName": "Task 3",
+        "projectPath": "D:\\Workshop 2\\Task 3\\Task 3.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Workshop 2\\obj\\",
+        "outputPath": "D:\\Workshop 2\\Task 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

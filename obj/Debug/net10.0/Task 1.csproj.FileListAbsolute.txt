@@ -1,0 +1,15 @@
+D:\Workshop 2\bin\Debug\net10.0\Task 1.exe
+D:\Workshop 2\bin\Debug\net10.0\Task 1.deps.json
+D:\Workshop 2\bin\Debug\net10.0\Task 1.runtimeconfig.json
+D:\Workshop 2\bin\Debug\net10.0\Task 1.dll
+D:\Workshop 2\bin\Debug\net10.0\Task 1.pdb
+D:\Workshop 2\obj\Debug\net10.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop 2\obj\Debug\net10.0\Task 1.AssemblyInfoInputs.cache
+D:\Workshop 2\obj\Debug\net10.0\Task 1.AssemblyInfo.cs
+D:\Workshop 2\obj\Debug\net10.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Workshop 2\obj\Debug\net10.0\Task 1.sourcelink.json
+D:\Workshop 2\obj\Debug\net10.0\Task 1.dll
+D:\Workshop 2\obj\Debug\net10.0\refint\Task 1.dll
+D:\Workshop 2\obj\Debug\net10.0\Task 1.pdb
+D:\Workshop 2\obj\Debug\net10.0\Task 1.genruntimeconfig.cache
+D:\Workshop 2\obj\Debug\net10.0\ref\Task 1.dll
